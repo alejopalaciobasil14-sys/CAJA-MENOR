@@ -1,0 +1,6 @@
+{
+  "name": "CajaControl - Gestión de Caja Menor",
+  "description": "Plataforma administrativa para la gestión, control, arqueo, legalización de gastos y reportes de caja menor empresarial en pesos colombianos (COP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
